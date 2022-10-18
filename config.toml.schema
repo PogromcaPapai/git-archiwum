@@ -1,0 +1,10 @@
+log_level = 'debug'
+
+[store]
+repo_url = ""
+folders = [
+
+]
+
+[archive]
+key = ""
